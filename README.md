@@ -3,3 +3,5 @@ This is going to be a local webserver running in my network that display relevan
 testing
 
 test 2
+
+enda en test for å sjekke
